@@ -94,7 +94,7 @@ def merge_group_info():
     df_details.to_csv(path.join(dir_output, 'chatroom-to-user-detail.csv'))
     #pd.DataFrame(chatroom_to_user)
 
-# itchat_login()
-# scrape_friend_list()
-# scrape_group()
+itchat_login()
+scrape_friend_list()
+scrape_group()
 merge_group_info()
