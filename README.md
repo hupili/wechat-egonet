@@ -30,6 +30,7 @@ There are already many wechat API libraries out there. This repo is not intended
 Here are some sample articles produced with this dataset:
 
 - **pwords**, 2018, _个人微信群组关系网络图 (ego-network)_ [Link](https://mp.weixin.qq.com/s/DgAXmcR2kn3q2xjsEiwpJg)
+![](screenshot-pwords2018-1.png)
 
 ## License
 
